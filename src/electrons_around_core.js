@@ -1,4 +1,4 @@
 
 function electronsAroundCores(numbers) {
-	return 6;
+	return numbers[numbers.length - 1] + 1;
 }
