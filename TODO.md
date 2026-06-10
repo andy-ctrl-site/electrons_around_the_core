@@ -10,5 +10,5 @@
 5. **A single 1** - Has a core but 0 electrons → return 0
 6. **A single 3** - Core with 2 electrons → return 2
 7. **A single 5** - Core with 4 electrons → return 4
-8. **A single even face (2, 4, or 6)** - No core → return 0
+8. **A single even number (2, 4, or 6)** - No core → return 0
 9. **All zero-contributing faces** - Array of only 1s and even faces → return 0
