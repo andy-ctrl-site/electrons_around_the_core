@@ -29,4 +29,8 @@ describe("electronsAroundCores", function() {
         expect(electronsAroundCores([3])).toEqual(2);
     });
 
+    it("should return 4 for [5]", function() {
+        expect(electronsAroundCores([5])).toEqual(4);
+    });
+
 });
